@@ -49,18 +49,18 @@ Bills and Entertainment lead in spending|
 Travel expenses have the lowest revenue contribution.
 
 
-🔹 Quarterly Trends
-Highest revenue recorded in Q3 (14.2M).
+🔹 Quarterly Trends|-->
+Highest revenue recorded in Q3 (14.2M).|
 Q4 saw a decline in both revenue and transaction amounts.
 
 
-🔹 Gender-Based Card Distribution
+🔹 Gender-Based Card Distribution|-->
 Female users have a higher share of card ownership compared to male users.
 
 
 
-🛠️ Tools Used
-Power BI for data visualization
-DAX for calculated metrics
-Data Model with relationships between multiple dimensions
+🛠️ Tools Used-->
+Power BI for data visualization|
+DAX for calculated metrics|
+Data Model with relationships between multiple dimensions|
 
